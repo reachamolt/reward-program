@@ -1,6 +1,5 @@
 # Customer Reward Program
-
-Business Requirement
+# Business Requirement
 A retailer offers a rewards program to its customers, awarding points based on each
 valid purchase. A customer receives 2 points for every dollar spent over $100 in each
 transaction, plus 1 point for every dollar spent over $50 in each transaction (e.g. if one
@@ -9,6 +8,7 @@ points).
 Given all the transactions of every customer during a period of time(1 year for example),
 calculate the reward points earned for each customer per month and total.
 Solution Requirement
+
 ● Create some Restful APIs to get customer&#39;s reward points. By customized input
 like user id or user name.
 ● Use common sense to make assumptions.
