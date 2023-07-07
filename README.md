@@ -11,7 +11,7 @@ Solution Requirement
 
 * Create some Restful APIs to get customer&#39;s reward points. By customized input
 like user id or user name.
-* Use common sense to make assumptions.
+* Use common sense to make assumptions. [Shows last 3 months of data]
 * Consider the API security and confidentiality of user data.
 * Make up a data set to best demonstrate your solution.
 * The solution should demonstrate the design of API, business logic and data
